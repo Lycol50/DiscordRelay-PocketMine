@@ -1,5 +1,5 @@
 name: DiscordRelay
-author: Jack Noordhuis
+author: Jack Noordhuis, princepines
 main: jacknoordhuis\discordrelay\DiscordRelay
-version: 0.0.2-ALPHA
+version: 1.0.0-PMnS
 api: 3.0.0
